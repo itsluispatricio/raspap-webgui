@@ -68,7 +68,7 @@ configured as an access point as follows:
   - Password: secret
 - DHCP range: 10.8.120.50 — 10.8.120.255
 - SSID: `RaspAP_Router`
-- Password: ChangeMe
+- Password: RaspAP-changethis
 
 **Note:** As the name suggests, the Quick Installer is a great way to quickly setup a new AP. However, it does not automagically detect the unique configuration of your system. Best results are obtained by connecting to ethernet (`eth0`) or as a WiFi client, also known as managed mode, with `wlan0`. For the latter, refer to [this FAQ](https://docs.raspap.com/faq/#headless). Special instructions for the Pi Zero W are [available here](https://docs.raspap.com/ap-sta/).
 
